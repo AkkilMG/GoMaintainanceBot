@@ -1,1 +1,1 @@
-worker: ./bin/MaintainanceBot
+worker: ./bin/app
