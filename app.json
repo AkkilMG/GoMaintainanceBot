@@ -1,0 +1,26 @@
+{
+    "name": "Maintainance Bot",
+    "description": "telegram's bot",
+    "logo": "https://github.com/HeimanPictures/Go-Maintainance-Bot/",
+    "keywords": [
+        "tool",
+        "maintainance",
+        "telegram",
+        "bot"
+    ],
+    "repository": "https://github.com/HeimanPictures/Go-Maintainance-Bot",
+    "website": "https://github.com/HeimanPictures/Go-Maintainance-Bot",
+    "success_url": "https://t.me/HeimanSupports/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Get this value as String from @BotFather in telegram"
+        },
+        "SUPPORT_GROUP": {
+            "description": "Example https://t.me/HeimanSupport/"
+        },
+        "UPDATE_CHANNEL": {
+            "description": "Example https://t.me/HeimanSupports/"
+        }
+    }
+
+}
