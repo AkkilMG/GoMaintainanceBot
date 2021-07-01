@@ -62,7 +62,7 @@ func start(b *gotgbot.Bot, ctx *ext.Context) error {
 }
 
 func all(b *gotgbot.Bot, ctx *ext.Context) error {
-	_, err := ctx.EffectiveMessage.Reply(b, fmt.Sprintf("Hello, I'm @%s.\n"+FILTER_TEXT, b.User.Username), &gotgbot.SendMessageOpts{
+	_, err := ctx.EffectiveMessage.Reply(b, fmt.Sprintf("Hello, I'm @%s. \n"+FILTER_TEXT, b.User.Username), &gotgbot.SendMessageOpts{
 		ParseMode: "html",
 		ReplyMarkup: gotgbot.InlineKeyboardMarkup{
 			InlineKeyboard: [][]gotgbot.InlineKeyboardButton{{
