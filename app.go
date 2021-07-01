@@ -17,6 +17,10 @@ var UPDATE_CHANNEL = os.Getenv("UPDATE_CHANNEL")
 
 var SUPPORT_GROUP = os.Getenv("SUPPORT_GROUP")
 
+var START_TEXT = os.Getenv("START_TEXT")
+
+var HELP_TEXT = os.Getenv("HELP_TEXT")
+
 func main() {
 	b, err := gotgbot.NewBot((os.Getenv("BOT_TOKEN")), &gotgbot.BotOpts{
 		Client:      http.Client{},
@@ -42,7 +46,7 @@ func main() {
 }
 
 func start(b *gotgbot.Bot, ctx *ext.Context) error {
-	_, err := ctx.EffectiveMessage.Reply(b, fmt.Sprintf("Hello, I'm @%s.\nI Am A -- Bot. I Am Sorry To Say That This Bot Is Under Maintainance.. Plese Wait Till My Boss Intimate About My Return.\nDeveloped By @HeimanCreation.", b.User.Username), &gotgbot.SendMessageOpts{
+	_, err := ctx.EffectiveMessage.Reply(b, fmt.Sprintf("Hello, I'm @%s.\n"+START_TEXT, b.User.Username), &gotgbot.SendMessageOpts{
 		ParseMode: "html",
 		ReplyMarkup: gotgbot.InlineKeyboardMarkup{
 			InlineKeyboard: [][]gotgbot.InlineKeyboardButton{{
@@ -58,7 +62,7 @@ func start(b *gotgbot.Bot, ctx *ext.Context) error {
 }
 
 func all(b *gotgbot.Bot, ctx *ext.Context) error {
-	_, err := ctx.EffectiveMessage.Reply(b, fmt.Sprintf("Hello, I'm @%s.\nI Am Under Maintainance.. So Use Me Later After I Am Back. Intimation Will Be Provided On Our Channel.\nThank You 🥰🥰", b.User.Username), &gotgbot.SendMessageOpts{
+	_, err := ctx.EffectiveMessage.Reply(b, fmt.Sprintf("Hello, I'm @%s.\n"+HELP_TEXT, b.User.Username), &gotgbot.SendMessageOpts{
 		ParseMode: "html",
 		ReplyMarkup: gotgbot.InlineKeyboardMarkup{
 			InlineKeyboard: [][]gotgbot.InlineKeyboardButton{{
