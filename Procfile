@@ -1,1 +1,1 @@
-worker: ./bin/GoMaintainanceBot
+worker: bin/GoMaintainanceBot
