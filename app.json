@@ -15,6 +15,12 @@
         "BOT_TOKEN": {
             "description": "Get this value as String from @BotFather in telegram"
         },
+        "START_TEXT": {
+            "description": "Dude Just Prove me text, but Remember not to add Hello... As I Have Added 'Hello <your bot username>' in the chat"
+        },
+        "FILTER_TEXT": {
+            "description": "Dude Just Prove me text, but Remember not to add Hello... As I Have Added 'Hello <your bot username>' in the chat"
+        },
         "SUPPORT_GROUP": {
             "description": "Example https://t.me/HeimanSupport/"
         },
