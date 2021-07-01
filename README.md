@@ -1,19 +1,19 @@
 <h1 align="center">Maintenance Bot</h1>
 <p align="center">
-  <a href="https://github.com/HeimanPictures/Go-Maintainance-Bot">
-    <img src="https://github.com/HeimanPictures/Go-Maintainance-Bot/blob/master/Maintainance-Bot.png" alt="Cover Image" width="200">
+  <a href="https://github.com/HeimanPictures/GoMaintainanceBot">
+    <img src="https://github.com/HeimanPictures/GoMaintainanceBot/blob/master/Maintainance-Bot.png" alt="Cover Image" width="200">
   </a>
 <p align="center">
-  <a href="https://github.com/HeimanPictures/Go-Maintainance-Bot">
+  <a href="https://github.com/HeimanPictures/GoMaintainanceBot">
   </a>
   <p align="center">
     A Telegram Repo For Bots Under Maintenance
     <br />
     <a href="https://telegram.dog/HeimanSupport"><strong>Requests »</strong></a>
     <br />
-    <a href="https://github.com/HeimanPictures/Go-Maintainance-Bot/issues">Report a Bug</a>
+    <a href="https://github.com/HeimanPictures/GoMaintainanceBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/HeimanPictures/Go-Maintainance-Bot/issues">Request Feature</a>
+    <a href="https://github.com/HeimanPictures/GoMaintainanceBot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -42,7 +42,7 @@
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/HeimanPictures/Go-Maintainance-Bot/">
+    <a href="https://github.com/HeimanPictures/GoMaintainanceBot/">
         <img src="https://telegra.ph/file/b15170ea0826d49c730a3.png" height="200" width="200" alt="Telegram Logo">
     </a>
 </p>
@@ -59,7 +59,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeimanPictures/Go-Maintainance-Bot/tree/master/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeimanPictures/GoMaintainanceBot/tree/master/)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
