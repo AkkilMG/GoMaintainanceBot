@@ -27,6 +27,17 @@
         "UPDATE_CHANNEL": {
             "description": "Example https://t.me/HeimanSupports/"
         }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/go"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
     }
-
 }
