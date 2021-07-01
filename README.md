@@ -69,6 +69,8 @@ An example of `.env` file:
 BOT_TOKEN=12345678:yourtbottokenhere
 UPDATE_CHANNEL=https://t.me/HeimanSupports
 SUPPORT_GROUP=https://t.me/HeimanSupport
+START_TEXT=Hello @heimancreatiinbot, <your text>
+HELP_TEXT=Hello @heimancreatiin, <your text>
 ```
 
 ### Mandatory Vars
@@ -79,12 +81,15 @@ SUPPORT_GROUP=https://t.me/HeimanSupport
 
 `SUPPORT_GROUP` : Your Telegram Support Group Link
 
+`START_TEXT` : Dude Just Prove me text, but Remember not to add Hello... As I Have Added 'Hello <your bot username>' in the chat
+
+`FILTER_TEXT` : Dude Just Prove me text, but Remember not to add Hello... As I Have Added 'Hello <your bot username>' in the chat
 
 ## Credits
 
-- Thanks To [Paul Larsen](github.com/PaulSonOfLars/) For [GoTGBot](github.com/PaulSonOfLars/gotgbot/v2)
-- Logo By [poppit](https://telegram.dog/poppit/)
-- [Heiman Creation](https://github.com/HeimanPictures/)
+- Thanks To <b>[Paul Larsen](github.com/PaulSonOfLars/)</b> For <b>[GoTGBot](github.com/PaulSonOfLars/gotgbot/v2)</b>
+- Logo By <b>[poppit](https://telegram.dog/poppit/)</b>
+- Thanks To <b>[Heiman Creation](https://github.com/HeimanPictures/)</b>([Me](https://telegram.dog/HeimanCreation/))
 
 ## LICENSE
 
