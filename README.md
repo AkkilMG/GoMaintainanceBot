@@ -99,7 +99,7 @@ HELP_TEXT=Hello @heimancreatiin, <your text>
 - Thanks To <b>[Paul Larsen](https://github.com/PaulSonOfLars/)</b> For <b>[GoTGBot](https://github.com/PaulSonOfLars/gotgbot/v2)</b>
 - Logo By <b>[poppit](https://telegram.dog/poppit/)</b>
 - Thanks To <b>[Heiman Creation](https://github.com/HeimanPictures/)</b>([Me](https://telegram.dog/HeimanCreation/))
-- Thanks To <b>[Veer Ser]()</b> Helping Me With Errors
+- Thanks To <b>[Veer Ser](https://github.com/anonyindian)</b> Helping Me With Errors
 ## LICENSE
 
 ```
