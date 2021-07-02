@@ -63,6 +63,10 @@ Press the below button to Fast deploy on Heroku
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
+  <a href="https://github.com/HeimanPictures/GoMaintainanceBot">
+    <img src="https://github.com/HeimanPictures/GoMaintainanceBot/blob/master/ss/IMG_20210702_124150.jpg" alt="Cover Image" width="200">
+  </a>
+
 An example of `.env` file:
 
 ```sh
@@ -85,6 +89,9 @@ HELP_TEXT=Hello @heimancreatiin, <your text>
 
 `FILTER_TEXT` : Dude Just Prove me text, but Remember not to add Hello... As I Have Added 'Hello <your bot username>' in the chat
 
+  <a href="https://github.com/HeimanPictures/GoMaintainanceBot">
+    <img src="https://github.com/HeimanPictures/GoMaintainanceBot/blob/master/ss/IMG_20210702_124342.jpg" alt="Cover Image" width="200">
+  </a>
 ## Credits
 
 - Thanks To <b>[Paul Larsen](https://github.com/PaulSonOfLars/)</b> For <b>[GoTGBot](https://github.com/PaulSonOfLars/gotgbot/v2)</b>
