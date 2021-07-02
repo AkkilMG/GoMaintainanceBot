@@ -7,7 +7,7 @@
   <a href="https://github.com/HeimanPictures/GoMaintainanceBot">
   </a>
   <p align="center">
-    A Telegram Repo For Bots Under Maintenance
+    A Telegram Repo For Bots Under Maintenance Which Gives Faster Response To Users
     <br />
     <a href="https://telegram.dog/HeimanSupport"><strong>Requests »</strong></a>
     <br />
