@@ -92,6 +92,8 @@ HELP_TEXT=Hello @heimancreatiin, <your text>
   <a href="https://github.com/HeimanPictures/GoMaintainanceBot">
     <img src="https://github.com/HeimanPictures/GoMaintainanceBot/blob/master/ss/IMG_20210702_124342.jpg" alt="Cover Image" width="200">
   </a>
+
+
 ## Credits
 
 - Thanks To <b>[Paul Larsen](https://github.com/PaulSonOfLars/)</b> For <b>[GoTGBot](https://github.com/PaulSonOfLars/gotgbot/v2)</b>
