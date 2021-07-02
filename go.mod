@@ -1,6 +1,6 @@
 module github.com/HeimanPictures/GoMaintainanceBot
 
-// +heroku goVersion go1.16
+// +heroku goVersion go1.15
 go 1.15
 
 require (
