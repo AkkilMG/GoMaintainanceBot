@@ -1,4 +1,4 @@
-module github.com/HeimanPictures/Go-Maintainance-Bot
+module github.com/HeimanPictures/GoMaintainanceBot
 
 // +heroku goVersion 1.14
 // +heroku install ./cmd/...
