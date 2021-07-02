@@ -87,7 +87,7 @@ HELP_TEXT=Hello @heimancreatiin, <your text>
 
 ## Credits
 
-- Thanks To <b>[Paul Larsen](github.com/PaulSonOfLars/)</b> For <b>[GoTGBot](github.com/PaulSonOfLars/gotgbot/v2)</b>
+- Thanks To <b>[Paul Larsen](https://github.com/PaulSonOfLars/)</b> For <b>[GoTGBot](https://github.com/PaulSonOfLars/gotgbot/v2)</b>
 - Logo By <b>[poppit](https://telegram.dog/poppit/)</b>
 - Thanks To <b>[Heiman Creation](https://github.com/HeimanPictures/)</b>([Me](https://telegram.dog/HeimanCreation/))
 
